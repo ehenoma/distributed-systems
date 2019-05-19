@@ -1,4 +1,3 @@
 # Papers on Distributed Systems
 
-This repository contains some rather famous papers on distributed systems and
-its concepts.
+This repository contains some rather famous papers and thought experiments  on distributed systems.
